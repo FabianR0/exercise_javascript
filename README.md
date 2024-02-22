@@ -1,2 +1,2 @@
 # exercise_javascript
-exercise recomend for teacher y other for me
+exercise recomended for teacher y other for me
